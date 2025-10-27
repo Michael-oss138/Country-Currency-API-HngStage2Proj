@@ -17,7 +17,7 @@ cache/
 .env.*.local
 
 
-*.sql
+*.sql 
 *.bak
 *.backup
 
