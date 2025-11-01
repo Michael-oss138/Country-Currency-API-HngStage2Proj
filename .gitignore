@@ -27,7 +27,6 @@ env/
 ENV/
 
 
-.vscode/
 .idea/
 *.sublime-project
 *.sublime-workspace
@@ -50,3 +49,7 @@ coverage.xml
 
 logs/
 *.log
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
